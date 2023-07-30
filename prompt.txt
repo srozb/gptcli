@@ -1,0 +1,1 @@
+I want you to understand source code and create a github README.md for this project based on your understanding of source code. It is called 'gptcli' and written in the Nim programming language. First of all I want you to write that this README was not created by human. I will paste source code in my next message. Create building and usage section mainly focues od cli usage.
